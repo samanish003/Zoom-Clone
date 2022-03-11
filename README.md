@@ -4,22 +4,24 @@ A new Flutter project Zoom clone, that's work on Android.
 
 **Features**
 
-Google Sign In
-Create New Meeting
-Join Meeting
-Mute/Unmute Audio
-Mute/Unmute Video
-Change Display Name while Joining
-Raise Hand
-Start Screen Sharing
-Mute Everyone
-Start Live Stream
-Screen Share
-Chat
-Switch Front/Rear Camera
-Picture in Picture
-Enter Tile View
-Disable Camera
-End Call
-See Your Meeting History
-Log out
+1. Google Sign In
+2. Create New Meeting
+3. Join Meeting
+4. Mute/Unmute Audio
+5. Mute/Unmute Video
+6. Change Display Name while Joining
+7. Raise Hand
+8. Start Screen Sharing
+9. Mute Everyone
+10. Start Live Stream
+11. Screen Share
+12. Chat
+13. Switch Front/Rear Camera
+14. Picture in Picture
+16. Enter Tile View
+17. Disable Camera
+18. End Call
+19. See Your Meeting History
+20. Log out
+
+
