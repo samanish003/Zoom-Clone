@@ -1,16 +1,25 @@
 # zoom
 
-A new Flutter project.
+A new Flutter project Zoom clone, that's work on Android.
 
-## Getting Started
+**Features**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Google Sign In
+Create New Meeting
+Join Meeting
+Mute/Unmute Audio
+Mute/Unmute Video
+Change Display Name while Joining
+Raise Hand
+Start Screen Sharing
+Mute Everyone
+Start Live Stream
+Screen Share
+Chat
+Switch Front/Rear Camera
+Picture in Picture
+Enter Tile View
+Disable Camera
+End Call
+See Your Meeting History
+Log out
